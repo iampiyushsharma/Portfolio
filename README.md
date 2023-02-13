@@ -1,3 +1,3 @@
 # Piyush Portfolio
 
-<a href="https://github.com/iampiyushsharma/Portfolio/">Live Website</a>
+<a href="https://iampiyushsharma.github.io/Portfolio/">Live Website</a>
