@@ -576,6 +576,7 @@ footer small{
   flex: 0 0 33.33%;
   max-width: 33.33%;
   display: flex;
+  margin-top: 2rem;
 }
 .project .project-item-inner{
   border-radius: 10px;
